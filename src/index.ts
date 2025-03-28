@@ -7,3 +7,13 @@ console.log(`My age is ${age}`);
 
 if (age < 50) age += 10;
 console.log(age);
+
+let sales = 123456780;
+let marks = 54345_2342;
+let course = "Java";
+let is_Married = true;
+let level;
+
+function render(document: any) {
+	console.log(document);
+}
