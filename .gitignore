@@ -1,0 +1,9 @@
+# Ignore compiled JS files in the dist folder...
+dist/*.js
+dist/*.js.map
+
+# Ignore node_modules (if not already ignored)
+node_modules
+
+# Ignore environment files (if any)
+.env
